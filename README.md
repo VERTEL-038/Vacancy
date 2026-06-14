@@ -7,6 +7,7 @@
 ### Выполнили
 
 Ахметов Динар 526989 - `core.py`, `tree.py`, `utils.py`
+
 Закревский Иван 422237 - `main.py`, `data.py`, `ui.py`, `README.md`
 
 ---

@@ -38,7 +38,7 @@ def search_salary_range(bst): #поиск вакансий по диапазон
     except ValueError:
         print("Ошибка: введите целые числа.")
 
-def search_by_title(vacancy_list): #поиск точного названия вакансии (быстрая сортировка и бинарный поиск)
+def search_by_title(vacancy_list): #поиск вакансии по точному названию (быстрая сортировка и бинарный поиск)
     keyword = input("Введите точное название вакансии для поиска: ").strip()
     if not keyword:
         print("Название не может быть пустым.")
